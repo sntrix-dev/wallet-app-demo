@@ -1,5 +1,4 @@
 import React from "react";
-import { userData, UserData } from "../data/userData";
 
 let initialUserState: number = 0;
 
